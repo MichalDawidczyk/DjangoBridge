@@ -1,1 +1,2 @@
+1.1.0 - add method to authenticate
 1.0.0 - initial commit
